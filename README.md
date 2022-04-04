@@ -11,18 +11,17 @@ Anggota Kelompok:
 
 # API
 Link API: https://api-football-standings.azharimm.site/leagues
-Link Github: 
 
 # Fitur Website:
 Halaman Pertama
 - Menampilkan halaman login dan register
 Admin (Dapat mengakses halaman profil sebagai otorisasi)
--username: admin
--password: admin123
+- username: admin
+- password: admin123
 
 User
--username: user
--password: user123
+- username: user
+- password: user123
 Halaman Kedua
 - Menampilkan halaman utama yang berisi informasi yang didapatkan dari api "Football Leagues"
 Halaman Ketiga
