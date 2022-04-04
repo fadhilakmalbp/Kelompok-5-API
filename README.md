@@ -15,6 +15,7 @@ Link API: https://api-football-standings.azharimm.site/leagues
 # Fitur Website:
 Halaman Pertama
 - Menampilkan halaman login dan register
+
 Admin (Dapat mengakses halaman profil sebagai otorisasi)
 - username: admin
 - password: admin123
